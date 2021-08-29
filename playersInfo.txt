@@ -1,0 +1,16 @@
+[Путь до файла с данными (AstralKeys.lua)]
+C:\Users\IR14\Downloads\AstralKeys.lua
+
+[Путь к ключу сервисного аккаунта Google]
+wowboost-323723-3a8665387149.json
+
+[Название таблицы]
+wowBoost
+
+[Название листа на английском (Sheet1)]
+TAB1
+
+[Список ников (по 1 в каждой строке, учитывая сервер]
+Namalna-Illidan
+Dorgie-Illidan
+Nefdk-Illidan
